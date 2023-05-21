@@ -1,0 +1,9 @@
+1.font,background,margin-right,margin-left,text-align,padding.......
+2.-
+3.-
+4.-
+5.-
+6.-
+7.-
+8.-
+9.-
