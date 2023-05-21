@@ -90,9 +90,6 @@ main iframe {
     transform: rotate(180deg) scaleX(-1);
 }
 
-#au_first{
-    color: #0096ff;
-}
 
 .gallery {
     display: inline-block;
@@ -173,5 +170,12 @@ th {
     gap: 20px;
 }
 .row img {
+    width: 100%;
+}
+.fow{
+    display: flex;
+    flex-direction: column;
+}
+.collage,.sus{
     width: 100%;
 }
